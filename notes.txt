@@ -1,0 +1,18 @@
+fetch 2 different mjpeg streams on ports 8231 8232
+display in canvas
+
+features:
+
+-basic
+  swap images
+
+-medium
+  resize images
+  zoom and crop
+
+-versatile
+ filter colour
+ filter brightness
+
+luxurious:
+
